@@ -18,16 +18,16 @@ const Home = () => {
 				<div className="container-fluid py-3 mx-4">
 					<div className="row">
 						<div className="col-md-3">
-							<Cards imgUrl="" title="It Was All A Dream" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." />
+							<Cards title="It Was All A Dream" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." />
 						</div>
 						<div className="col-md-3">
-							<Cards imgUrl="" title="Where to Next?" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." />
+							<Cards title="Where to Next?" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." />
 						</div>
 						<div className="col-md-3">
-							<Cards imgUrl="" title="Go Green!" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." />
+							<Cards title="Go Green!" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." />
 						</div>
 						<div className="col-md-3">
-							<Cards imgUrl="" title="Meet Me at the Disco" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." />
+							<Cards title="Meet Me at the Disco" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." />
 						</div>
 					</div>
 				</div>
